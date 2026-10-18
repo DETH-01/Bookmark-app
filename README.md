@@ -10,7 +10,7 @@
 ## ดาวน์โหลดและเอกสาร
 - [ไฟล์ติดตั้ง .apk (Android)](https://github.com/DETH-01/Bookmark-app/releases/latest)
 - [รายงาน PDF](docs/report.pdf)
-- [วิดีโอแนะนำ](ใส่ลิงก์-YouTube-หรือ-Google-Drive)
+- [วิดีโอแนะนำ](https://drive.google.com/file/d/1B1ZE1oiV6KbBo9hfVpPVuLTEscs271ZY/view?usp=drive_link)
 
 > ติดตั้งบนมือถือ Android: เปิดไฟล์ .apk แล้วอนุญาต "ติดตั้งแอพจากแหล่งที่ไม่รู้จัก"
 
