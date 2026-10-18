@@ -12,7 +12,7 @@
 - [รายงาน PDF](docs/report.pdf)
 - [วิดีโอแนะนำ](https://drive.google.com/file/d/1B1ZE1oiV6KbBo9hfVpPVuLTEscs271ZY/view?usp=drive_link)
 
-> ติดตั้งบนมือถือ Android: เปิดไฟล์ .apk แล้วอนุญาต "ติดตั้งแอพจากแหล่งที่ไม่รู้จัก" grep -nE '^(<<<<<<<|=======|>>>>>>>)' README.md
+> ติดตั้งบนมือถือ Android: เปิดไฟล์ .apk แล้วอนุญาต "ติดตั้งแอพจากแหล่งที่ไม่รู้จัก" 
 
 ## ฟีเจอร์
 - สมัครสมาชิก / เข้าสู่ระบบ (Supabase Auth)
