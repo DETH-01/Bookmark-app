@@ -48,3 +48,5 @@ app.*.map.json
 .widget_preview/
 
 lib/core/config.dart
+
+lib/core/config.dart
