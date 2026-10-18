@@ -24,7 +24,6 @@
 
 ## ความรู้จากวิชาโครงสร้างข้อมูลที่ใช้
 | หัวข้อ | ใช้ทำอะไร | ไฟล์ |
-|---|---|---|
 | Sorting (Merge Sort เขียนเอง) | เรียงหนังสือตามชื่อ ราคา เรตติ้ง | `Bookmark/lib/core/algo/merge_sort.dart` |
 | Stack (LIFO) | ปุ่ม Undo ในตะกร้า | `Bookmark/lib/core/ds/stack.dart` |
 
